@@ -36,7 +36,7 @@ function App() {
               >
                 N
               </span>
-              <span>Northstar</span>
+              <span>Navbar</span>
             </a>
             <div className="hidden items-center gap-8 md:flex">
               {LINKS.map((link) => (
